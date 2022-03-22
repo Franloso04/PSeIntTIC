@@ -7,3 +7,8 @@ m=x
 
 print("La edad de Jose es",n)
 print("La edad de Juan es",m)
+if m>=18 :
+    print("Juan es mayor de edad")
+if n>=18 :
+    print("Jose es mayor de edad")
+    
